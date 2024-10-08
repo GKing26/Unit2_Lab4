@@ -1,0 +1,14 @@
+>-- Question 1
+    They have to be the same dimensions so 2x2 and 2x2
+
+>-- Question 2
+    The n for the first matrix needs to be the same as m for the second so 2x3 3x2
+
+>-- Question 3
+    Find how many lists are in the matrix for the first matrix and find out how many things are in each list of the second matrix
+
+>-- Question 4
+    It needs to complete however many times there are lists in the first matrix, each time it moves onto the next
+
+>-- Question 5
+    Using len() you can figure out how large a given matrix is which makes sure you do not exceed the given size
